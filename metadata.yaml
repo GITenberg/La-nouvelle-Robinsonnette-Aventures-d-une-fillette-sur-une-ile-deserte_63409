@@ -1,5 +1,5 @@
 _repo: La-nouvelle-Robinsonnette-Aventures-d-une-fillette-sur-une-ile-deserte_63409
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Jaubert, Ernest
@@ -8,12 +8,17 @@ contributor:
   - agent_name: Golschmann, Léon
     gutenberg_agent_id: '52431'
     url: http://www.gutenberg.org/2009/agents/52431
+covers:
+- cover_type: archival
+  image_path: 63409-h/images/cover.jpg
 creator:
   author:
     agent_name: Granström, Edward Andreyevich
     gutenberg_agent_id: '52430'
     url: http://www.gutenberg.org/2009/agents/52430
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63409#La-nouvelle-Robinsonnette-Aventures-d-une-fillette-sur-une-ile-deserte
 gutenberg_issued: '2020-10-08'
 gutenberg_type: Text
 identifiers:
